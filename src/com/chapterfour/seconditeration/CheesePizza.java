@@ -1,4 +1,4 @@
-package com.chapterone.seconditeration;
+package com.chapterfour.seconditeration;
 
 public class CheesePizza implements Pizza {
     @Override

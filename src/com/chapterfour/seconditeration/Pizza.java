@@ -1,4 +1,4 @@
-package com.chapterone.seconditeration;
+package com.chapterfour.seconditeration;
 
 public interface Pizza {
     void prepare();

@@ -1,6 +1,6 @@
-package com.chapterone.seconditeration;
+package com.chapterfour.seconditeration;
 
-public class PeperoniPizza implements Pizza {
+public class GreekPizza implements Pizza {
     @Override
     public void prepare() {
 
