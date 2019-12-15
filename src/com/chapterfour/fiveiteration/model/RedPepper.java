@@ -1,0 +1,9 @@
+package com.chapterfour.fiveiteration.model;
+
+import com.chapterfour.fiveiteration.model.interfaces.Veggies;
+
+public class RedPepper implements Veggies {
+    public String toString() {
+        return "I am RedPepper";
+    };
+}
